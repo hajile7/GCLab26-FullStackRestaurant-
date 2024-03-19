@@ -1,0 +1,6 @@
+@GCLab26_FullStackRestaurant_backend__HostAddress = http://localhost:5131
+
+GET {{GCLab26_FullStackRestaurant_backend__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
